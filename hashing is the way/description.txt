@@ -1,0 +1,3 @@
+As explained in the linked wikipedia article, feistel decryption is just encryption with the "keys" inverted.
+
+Here we can just swap the order of the hashes around, as these uniquely define the keys.
